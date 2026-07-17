@@ -1,76 +1,207 @@
-# 👋 Hi, I'm Ishak (aka IssacCohen)
+<div align="center">
 
-💻 IT Software Engineer  
-🔐 Cybersecurity & Data Analytics Enthusiast  
-🌍 Working remotely | 📍 Casablanca, Morocco  
+# 👋 Hello, I'm Anasse Anida
 
----
+### IT Engineer • DevOps • AI Engineering • Cybersecurity
 
-## 🚀 About Me
-I’m an IT Software Engineer with a strong foundation in **computer science** and
-a growing focus on **Cybersecurity** and **Data Analytics**.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=F59E0B&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+AI+Applications;DevOps+%7C+Linux+%7C+Cloud;Cybersecurity+Enthusiast;Open+Source+Contributor" />
 
-I enjoy building systems, understanding how things work under the hood,
-and writing secure, efficient, and maintainable code.
+<br>
 
----
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-builtbyanas.com-orange?style=for-the-badge)](https://builtbyanas.com)
+[![GitHub followers](https://img.shields.io/github/followers/IssacCohen?style=for-the-badge&logo=github)]
+[![GitHub Stars](https://img.shields.io/github/stars/IssacCohen?affiliations=OWNER&style=for-the-badge)]
+[![Profile Views](https://komarev.com/ghpvc/?username=IssacCohen&style=for-the-badge&color=orange)]
 
-## 🧠 Currently Working On
-- 🔐 **Cybersecurity**
-  - Linux security fundamentals
-  - Secure coding practices
-  - Scripting & basic automation
-
-- 📊 **Data Analytics**
-  - Data analysis with Python
-  - Working with real datasets
-  - Data cleaning and basic visualization
-
-- 💻 **Software Engineering**
-  - Algorithms & data structures
-  - Backend development
-  - Clean and maintainable code
+</div>
 
 ---
 
-## 🛠 Technical Focus
-- **Core Languages:** C, Python  
-- **Scripting & Automation:** Bash, Python  
-- **Web Basics:** HTML, CSS, JavaScript  
-- **Systems & Tools:** Linux, Git, GitHub  
+# 🧑‍💻 About Me
+
+I'm an **IT Engineer** from **Casablanca, Morocco 🇲🇦**
+
+I enjoy transforming ideas into production-ready software.
+
+My passion is building modern applications combining:
+
+- 🤖 Artificial Intelligence
+- ⚙️ DevOps
+- 🐧 Linux
+- ☁️ Cloud Computing
+- 🔐 Cybersecurity
+- 🌍 Full Stack Development
 
 ---
 
-## 📌 Key Projects
+# 🚀 Current Focus
 
-### 🏠 AirBnB Clone v2
-- Full-stack web application inspired by Airbnb
-- Backend development with APIs, data models, and storage systems
-- Experience with system design and collaborative development
-
-**Tech:** Python, REST APIs, Databases, Git  
-
----
-
-### 🏦 BBVA Script 24 (Private)
-- Project developed in the context of **BBVA Spark**
-- Automation and scripting with data processing
-- Exposure to enterprise and financial environments
-
-**Tech:** Automation, Scripting, Data Handling, Security Awareness  
+```text
+✔ AI Engineering
+✔ DevOps Automation
+✔ Docker & Kubernetes
+✔ Cloud Infrastructure
+✔ Linux Administration
+✔ Cybersecurity
+✔ Open Source
+```
 
 ---
 
-## 🌱 Other Projects
-- 🔹 **binary_trees** – Binary trees implementation in C  
-- 🔹 More projects in **Cybersecurity & Data Analytics** coming soon  
+# 💼 Featured Projects
+
+## 🏠 Airbnb Experience
+
+Modern redesign inspired by Airbnb.
+
+> React • Next.js • UI/UX
 
 ---
 
-## 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IssacCohen&layout=compact&theme=tokyonight)
+## 🔐 BBVA Security
+
+Cybersecurity research & defensive engineering.
+
+> Security • Architecture
 
 ---
 
-## 📫 Contact
-📧 Ouzoumarta@Icloud.com/Gmail.com/Outlook.com
+## 👓 Loza Optique
+
+Professional website and digital ecosystem.
+
+> Next.js • TailwindCSS
+
+---
+
+## 🤖 AI Assistant
+
+Personal AI assistant powered by LLM technologies.
+
+> Python • AI
+
+---
+
+## ⚙ DevOps Lab
+
+Infrastructure • Docker • Linux • GitHub Actions
+
+---
+
+## 🎨 UI Kit
+
+Reusable modern components and design system.
+
+---
+
+# ⚡ Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css"/>
+
+</p>
+
+### Frameworks
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs"/>
+
+</p>
+
+### DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,linux,github,git,bash"/>
+
+</p>
+
+### Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=azure"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IssacCohen&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=IssacCohen&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IssacCohen&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=IssacCohen&theme=tokyonight&margin-w=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+🌍 **Portfolio**
+
+https://builtbyanas.com
+
+💼 **LinkedIn**
+
+Coming Soon
+
+📧 **Email**
+
+Coming Soon
+
+---
+
+<div align="center">
+
+## 「 Build • Learn • Share • Repeat 」
+
+*"Turning ideas into production-ready software."*
+
+⭐ Thanks for visiting my profile!
+
+</div>
