@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="58" viewBox="0 0 1200 58" role="img" aria-labelledby="title desc">
+  <title id="title">Contact divider</title>
+  <desc id="desc">A warm gold circle and vermilion seal framed by fine lines.</desc>
+  <g fill="none" stroke="#b98232" stroke-width="1.4" opacity=".82"><path d="M24 29h528M648 29h528"/><path d="M555 23h25m40 0h25" opacity=".55"/></g>
+  <circle cx="600" cy="29" r="19" fill="none" stroke="#b98232" stroke-width="1.5"/>
+  <circle cx="600" cy="29" r="12" fill="#b52d20"/>
+  <path d="M595 24h10v10h-10Zm2 2v6m3-6v6m3-6v6" fill="none" stroke="#f2e8d4" stroke-width="1"/>
+</svg>

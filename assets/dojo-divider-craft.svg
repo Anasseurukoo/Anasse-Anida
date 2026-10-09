@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="58" viewBox="0 0 1200 58" role="img" aria-labelledby="title desc">
+  <title id="title">Technology and craft divider</title>
+  <desc id="desc">Gold lines flank a dark pagoda silhouette beneath a warm rising sun.</desc>
+  <g fill="none" stroke="#b98232" stroke-width="1.4" opacity=".82"><path d="M24 29h500M676 29h500"/><path d="M525 23h24m126 0h24" opacity=".55"/></g>
+  <circle cx="600" cy="29" r="19" fill="#b52d20"/><path d="M581 29a19 19 0 0 1 38 0Z" fill="#df9b47"/>
+  <g fill="#201913"><path d="M600 14 612 25h-24Zm-9 12h18l-2 3h-14Zm-5 7h28l-2 3h-24Zm-4 7h36v3h-36Z"/><path d="M598 18h4v24h-4Z"/></g>
+</svg>

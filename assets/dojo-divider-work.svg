@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="58" viewBox="0 0 1200 58" role="img" aria-labelledby="title desc">
+  <title id="title">Selected work divider</title>
+  <desc id="desc">Fine gold lines and a restrained vermilion maple leaf.</desc>
+  <g fill="none" stroke="#b98232" stroke-width="1.4" opacity=".82"><path d="M24 29h525M651 29h525"/><path d="M550 23h18m64 0h18" opacity=".55"/></g>
+  <path d="M600 12c-5 6-5 10-12 10 4 3 4 7 1 12 5-1 8 1 11 7 3-6 6-8 11-7-3-5-3-9 1-12-7 0-7-4-12-10Z" fill="#b52d20"/>
+  <path d="M600 23v23m0-12-7-6m7 12 8-8" fill="none" stroke="#df9b47" stroke-width="1.1" stroke-linecap="round"/>
+</svg>
