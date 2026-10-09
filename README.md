@@ -1,207 +1,66 @@
 <div align="center">
 
-# 👋 Hello, I'm Anasse Anida
+<a href="https://builtbyanas.com/"><img src="https://builtbyanas.com/assets/brand/builtbyanas-dojo-logo-transparent.png" alt="BuiltByAnas — Digital Dojo" width="360"></a>
 
-### IT Engineer • DevOps • AI Engineering • Cybersecurity
+### DIGITAL DOJO
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=F59E0B&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+AI+Applications;DevOps+%7C+Linux+%7C+Cloud;Cybersecurity+Enthusiast;Open+Source+Contributor" />
+**Enter. Build. Evolve.**
 
-<br>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-builtbyanas.com-orange?style=for-the-badge)](https://builtbyanas.com)
-[![GitHub followers](https://img.shields.io/github/followers/IssacCohen?style=for-the-badge&logo=github)]
-[![GitHub Stars](https://img.shields.io/github/stars/IssacCohen?affiliations=OWNER&style=for-the-badge)]
-[![Profile Views](https://komarev.com/ghpvc/?username=IssacCohen&style=for-the-badge&color=orange)]
+[Portfolio](https://builtbyanas.com/) &nbsp;·&nbsp; [Selected work](https://builtbyanas.com/work/) &nbsp;·&nbsp; [Digital Dojo](https://builtbyanas.com/dojo/)
 
 </div>
 
 ---
 
-# 🧑‍💻 About Me
+## The practice behind the work
 
-I'm an **IT Engineer** from **Casablanca, Morocco 🇲🇦**
+I’m **Anasse**, an IT Engineer based in **Casablanca, Morocco**. I focus on web engineering, cybersecurity, automation, and practical AI systems—building digital products with care for how they work, how they feel, and how they hold up.
 
-I enjoy transforming ideas into production-ready software.
+## Engineering focus
 
-My passion is building modern applications combining:
+| Practice | What I work on |
+|:--|:--|
+| **Web engineering** | Responsive interfaces, front-end architecture, and useful product features |
+| **Cybersecurity** | Security-minded design, Linux hardening, logging, and applied cryptography |
+| **AI & automation** | Practical AI-assisted workflows, scripts, and repeatable processes |
+| **DevOps & systems** | Linux and Windows environments, Docker, shell scripting, and troubleshooting |
 
-- 🤖 Artificial Intelligence
-- ⚙️ DevOps
-- 🐧 Linux
-- ☁️ Cloud Computing
-- 🔐 Cybersecurity
-- 🌍 Full Stack Development
+## Selected work
 
----
+A few projects documented in the [BuiltByAnas portfolio](https://builtbyanas.com/work/):
 
-# 🚀 Current Focus
+- **[Joury Optic — Try Lens & 3D Try Lunettes](https://builtbyanas.com/work/joury-optic/)** — optical retail experience with [Try Lens](https://jouryoptic.com/try-lens/) and [3D Try Lunettes](https://jouryoptic.com/essayage/).
+- **[Loza Optique](https://builtbyanas.com/work/loza-optique/)** — website and digital product work for an optical retailer; [visit the site](https://lozaoptique.com/).
+- **[BBA AI — Studio Assistant](https://builtbyanas.com/work/bba-ai-studio-assistant/)** — an AI studio assistant project described in the portfolio.
 
-```text
-✔ AI Engineering
-✔ DevOps Automation
-✔ Docker & Kubernetes
-✔ Cloud Infrastructure
-✔ Linux Administration
-✔ Cybersecurity
-✔ Open Source
-```
+## Technology stack
 
----
+Technologies are listed here because they’re tied to real work in the [Digital Dojo](https://builtbyanas.com/dojo/):
 
-# 💼 Featured Projects
+**Web** · Next.js · TypeScript · Tailwind CSS · HTML · CSS · JavaScript  
+**Systems & automation** · Linux · Windows · Bash · Python · Docker · Git · GitHub  
+**Foundations** · C · Unix systems · Data structures · Algorithms
 
-## 🏠 Airbnb Experience
+## Engineering philosophy
 
-Modern redesign inspired by Airbnb.
+> Build reliable systems. Automate repetitive work. Understand security. Deliver polished experiences.
 
-> React • Next.js • UI/UX
+The practice matters as much as the result: investigate carefully, make the work understandable, and build for the person who has to use or maintain it.
 
----
+## GitHub activity
 
-## 🔐 BBVA Security
+Browse my [public repositories](https://github.com/Anasseurukoo?tab=repositories) and [contribution activity](https://github.com/Anasseurukoo?tab=overview) on GitHub. These links use GitHub itself; no third-party statistics widgets are required.
 
-Cybersecurity research & defensive engineering.
-
-> Security • Architecture
-
----
-
-## 👓 Loza Optique
-
-Professional website and digital ecosystem.
-
-> Next.js • TailwindCSS
-
----
-
-## 🤖 AI Assistant
-
-Personal AI assistant powered by LLM technologies.
-
-> Python • AI
-
----
-
-## ⚙ DevOps Lab
-
-Infrastructure • Docker • Linux • GitHub Actions
-
----
-
-## 🎨 UI Kit
-
-Reusable modern components and design system.
-
----
-
-# ⚡ Tech Stack
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css"/>
-
-</p>
-
-### Frameworks
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs"/>
-
-</p>
-
-### DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,linux,github,git,bash"/>
-
-</p>
-
-### Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=azure"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
+## Contact
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IssacCohen&show_icons=true&theme=tokyonight&hide_border=true"/>
+### Have a thoughtful problem to solve?
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=IssacCohen&theme=tokyonight&hide_border=true"/>
+[**Visit builtbyanas.com →**](https://builtbyanas.com/)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IssacCohen&layout=compact&theme=tokyonight&hide_border=true"/>
+[Builtbyanass@gmail.com](mailto:Builtbyanass@gmail.com) &nbsp;·&nbsp; [GitHub @Anasseurukoo](https://github.com/Anasseurukoo)
 
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=IssacCohen&theme=tokyonight&margin-w=15&no-frame=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 📫 Let's Connect
-
-🌍 **Portfolio**
-
-https://builtbyanas.com
-
-💼 **LinkedIn**
-
-Coming Soon
-
-📧 **Email**
-
-Coming Soon
-
----
-
-<div align="center">
-
-## 「 Build • Learn • Share • Repeat 」
-
-*"Turning ideas into production-ready software."*
-
-⭐ Thanks for visiting my profile!
+*Casablanca, Morocco · Built with discipline. Shared with purpose.*
 
 </div>
