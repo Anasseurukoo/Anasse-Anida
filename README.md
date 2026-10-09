@@ -1,14 +1,16 @@
-<div align="center">
-
-<a href="https://builtbyanas.com/"><img src="https://builtbyanas.com/assets/brand/builtbyanas-dojo-logo-transparent.png" alt="BuiltByAnas — Digital Dojo" width="360"></a>
-
-### DIGITAL DOJO
+<p align="center">
+  <a href="https://builtbyanas.com/">
+    <img
+      src="./builtbyanas-banner.png"
+      alt="BuiltByAnas — Digital Dojo official banner"
+      width="100%"
+    />
+  </a>
+</p>
 
 **Enter. Build. Evolve.**
 
-[Portfolio](https://builtbyanas.com/) &nbsp;·&nbsp; [Selected work](https://builtbyanas.com/work/) &nbsp;·&nbsp; [Digital Dojo](https://builtbyanas.com/dojo/)
-
-</div>
+[Portfolio](https://builtbyanas.com/) &nbsp;·&nbsp; [Selected Work](https://builtbyanas.com/work/) &nbsp;·&nbsp; [Digital Dojo](https://builtbyanas.com/dojo/)
 
 ---
 
