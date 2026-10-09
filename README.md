@@ -1,68 +1,74 @@
 <p align="center">
   <a href="https://builtbyanas.com/">
-    <img
-      src="./builtbyanas-banner.png"
-      alt="BuiltByAnas — Digital Dojo official banner"
-      width="100%"
-    />
+    <img src="./builtbyanas-banner.png" alt="BuiltByAnas — Digital Dojo official banner" width="100%" />
   </a>
 </p>
 
-**Enter. Build. Evolve.**
+<p align="center"><strong>Enter. Build. Evolve.</strong><br />
+<a href="https://builtbyanas.com/">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://builtbyanas.com/work/">Selected Work</a> &nbsp;·&nbsp;
+<a href="https://builtbyanas.com/dojo/">Digital Dojo</a></p>
 
-[Portfolio](https://builtbyanas.com/) &nbsp;·&nbsp; [Selected Work](https://builtbyanas.com/work/) &nbsp;·&nbsp; [Digital Dojo](https://builtbyanas.com/dojo/)
+<p align="center"><sub>IT ENGINEER &nbsp;·&nbsp; CASABLANCA, MOROCCO</sub></p>
 
----
+<p align="center"><img src="./assets/dojo-divider.svg" alt="Gold line, rising vermilion sun, and torii gate divider" width="100%" /></p>
 
-## The practice behind the work
+## An engineer at the intersection of systems and craft
 
-I’m **Anasse**, an IT Engineer based in **Casablanca, Morocco**. I focus on web engineering, cybersecurity, automation, and practical AI systems—building digital products with care for how they work, how they feel, and how they hold up.
+I’m **Anasse**, an IT Engineer based in **Casablanca, Morocco**. I work across web engineering, cybersecurity, automation, and practical AI systems—bringing careful engineering together with considered digital experiences.
 
 ## Engineering focus
 
-| Practice | What I work on |
+| 01 &nbsp; **WEB ENGINEERING** | 02 &nbsp; **CYBERSECURITY** |
 |:--|:--|
-| **Web engineering** | Responsive interfaces, front-end architecture, and useful product features |
-| **Cybersecurity** | Security-minded design, Linux hardening, logging, and applied cryptography |
-| **AI & automation** | Practical AI-assisted workflows, scripts, and repeatable processes |
-| **DevOps & systems** | Linux and Windows environments, Docker, shell scripting, and troubleshooting |
+| Responsive interfaces, front-end architecture, and useful product features. | Security-minded design, Linux hardening, logging, and applied cryptography. |
+| 03 &nbsp; **AI & AUTOMATION** | 04 &nbsp; **DEVOPS & SYSTEMS** |
+| Practical AI-assisted workflows, scripts, and repeatable processes. | Linux and Windows environments, Docker, shell scripting, and troubleshooting. |
+
+<p align="center"><img src="./assets/dojo-divider.svg" alt="Gold line, rising vermilion sun, and torii gate divider" width="100%" /></p>
 
 ## Selected work
 
-A few projects documented in the [BuiltByAnas portfolio](https://builtbyanas.com/work/):
+Project details are documented in the [BuiltByAnas portfolio](https://builtbyanas.com/work/).
 
-- **[Joury Optic — Try Lens & 3D Try Lunettes](https://builtbyanas.com/work/joury-optic/)** — optical retail experience with [Try Lens](https://jouryoptic.com/try-lens/) and [3D Try Lunettes](https://jouryoptic.com/essayage/).
-- **[Loza Optique](https://builtbyanas.com/work/loza-optique/)** — website and digital product work for an optical retailer; [visit the site](https://lozaoptique.com/).
-- **[BBA AI — Studio Assistant](https://builtbyanas.com/work/bba-ai-studio-assistant/)** — an AI studio assistant project described in the portfolio.
+### Joury Optic — Try Lens & 3D Try Lunettes
+
+Explore the [project overview](https://builtbyanas.com/work/joury-optic/), the [Joury Optic site](https://jouryoptic.com/), [Try Lens](https://jouryoptic.com/try-lens/), and [3D Try Lunettes](https://jouryoptic.com/essayage/).
+
+### Loza Optique
+
+Read the [project overview](https://builtbyanas.com/work/loza-optique/) or [visit Loza Optique](https://lozaoptique.com/).
+
+### BBA AI — Studio Assistant
+
+Read the [BBA AI project overview](https://builtbyanas.com/work/bba-ai-studio-assistant/).
 
 ## Technology stack
 
-Technologies are listed here because they’re tied to real work in the [Digital Dojo](https://builtbyanas.com/dojo/):
+Tools and foundations documented in the [Digital Dojo](https://builtbyanas.com/dojo/):
 
-**Web** · Next.js · TypeScript · Tailwind CSS · HTML · CSS · JavaScript  
-**Systems & automation** · Linux · Windows · Bash · Python · Docker · Git · GitHub  
-**Foundations** · C · Unix systems · Data structures · Algorithms
+**Web** &nbsp; `Next.js` &nbsp; `TypeScript` &nbsp; `Tailwind CSS` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `JavaScript`  
+**Systems & automation** &nbsp; `Linux` &nbsp; `Windows` &nbsp; `Bash` &nbsp; `Python` &nbsp; `Docker` &nbsp; `Git` &nbsp; `GitHub`  
+**Foundations** &nbsp; `C` &nbsp; `Unix systems` &nbsp; `Data structures` &nbsp; `Algorithms`
+
+<p align="center"><img src="./assets/dojo-divider.svg" alt="Gold line, rising vermilion sun, and torii gate divider" width="100%" /></p>
 
 ## Engineering philosophy
 
-> Build reliable systems. Automate repetitive work. Understand security. Deliver polished experiences.
+> **Build reliable systems. Automate repetitive work. Understand security. Deliver polished experiences.**
+>
+> *Enter with curiosity. Build with discipline. Evolve through practice.*
 
-The practice matters as much as the result: investigate carefully, make the work understandable, and build for the person who has to use or maintain it.
+Investigate carefully, make the work understandable, and design for the people who use and maintain it.
 
 ## GitHub activity
 
-Browse my [public repositories](https://github.com/Anasseurukoo?tab=repositories) and [contribution activity](https://github.com/Anasseurukoo?tab=overview) on GitHub. These links use GitHub itself; no third-party statistics widgets are required.
+[Browse public repositories](https://github.com/Anasseurukoo?tab=repositories) &nbsp;·&nbsp; [View contribution activity](https://github.com/Anasseurukoo?tab=overview)
 
 ## Contact
 
-<div align="center">
-
-### Have a thoughtful problem to solve?
-
-[**Visit builtbyanas.com →**](https://builtbyanas.com/)
-
-[Builtbyanass@gmail.com](mailto:Builtbyanass@gmail.com) &nbsp;·&nbsp; [GitHub @Anasseurukoo](https://github.com/Anasseurukoo)
-
-*Casablanca, Morocco · Built with discipline. Shared with purpose.*
-
-</div>
+<p align="center"><strong>Have a thoughtful problem to solve?</strong><br /><br />
+<a href="https://builtbyanas.com/">Explore BuiltByAnas →</a><br /><br />
+<a href="mailto:Builtbyanass@gmail.com">Builtbyanass@gmail.com</a> &nbsp;·&nbsp;
+<a href="https://github.com/Anasseurukoo">GitHub @Anasseurukoo</a><br />
+<sub>CASABLANCA, MOROCCO</sub></p>
