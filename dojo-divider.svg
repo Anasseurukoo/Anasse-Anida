@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="58" viewBox="0 0 1200 58" role="img" aria-labelledby="title desc">
+  <title id="title">Digital Dojo section divider</title>
+  <desc id="desc">A fine gold line, rising vermilion sun, and minimalist torii gate.</desc>
+  <g fill="none" stroke="#b98232" stroke-width="1.4" opacity=".82">
+    <path d="M26 29h454M720 29h454"/>
+    <path d="M480 23h28m184 0h28" opacity=".55"/>
+  </g>
+  <circle cx="600" cy="29" r="19" fill="#b52d20"/>
+  <path d="M600 10a19 19 0 0 1 19 19h-38a19 19 0 0 1 19-19Z" fill="#df9b47"/>
+  <g fill="none" stroke="#201913" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M587 23h26M589 26h22M592 26v11m16-11v11M590 37h20" stroke-width="2.2"/>
+    <path d="m600 20 2 3h-4Z" fill="#201913" stroke-width=".8"/>
+  </g>
+  <path d="M579 43c4 2 9 3 14 3m28-3c-4 2-9 3-14 3" fill="none" stroke="#b52d20" stroke-width="1.2" opacity=".88"/>
+</svg>
